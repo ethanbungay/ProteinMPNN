@@ -1,2 +1,2 @@
 # ProteinMPNN
-Walkthrough &amp; scripts to perform ProteinMPNN (with coupled ESMFold &amp; OmegaFolding) on Bristol HPC's BC4 
+Walkthrough &amp; scripts to perform ProteinMPNN on Bristol HPC's BC4 
