@@ -14,7 +14,7 @@ All you need is a decent PDB starting structure. This model has no ligand contex
   3. alter sele, chain='A'
   4. Save as PDB
 
-This model doesn't have context for any form of non-natural amino acids, so if your startinf structure is out of an MD run whereby the reisdues may have had a jazzy new name provided by a parameter file, make sure to change back to standard nomenclature. This can be done through a text editor (VIM, Opening file as text editor on WinSCP) or through sed commands. 
+This model doesn't have context for any form of non-natural amino acids, so if your starting structure is out of an MD run whereby the reisdues may have had a jazzy new name provided by a parameter file, make sure to change back to standard nomenclature. This can be done through a text editor (VIM, Opening file as text editor on WinSCP) or through sed commands. 
 
 # Getting Started
 ProteinMPNN is ran utilising a range of python scripts, which are provided in this repository, but are also available in BC4 storage at:
