@@ -1,6 +1,8 @@
 # ProteinMPNN
 Walkthrough &amp; scripts to perform ProteinMPNN on Bristol HPC's BC4 
 
+Instructions originally compiled by Holly Ford (h.ford@bristol.ac.uk)
+
 # What is ProteinMPNN?
 A robust message-passing neural network, which diverisfies the primary sequence of the input PDB file, whilst aiming to retain secondary and tertiary structures. It can do this freely, choosing the best residues it believes for each position (lowest perplexity) and or by following your bias files, if you need certain areas charged/hydrophobic/polar etc.. Newer LigandMPNN is now available, but this module is already installed on BC4 and does not require a github cloned for operation, so might be the simpler choice. 
 
